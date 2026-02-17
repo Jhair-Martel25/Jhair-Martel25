@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Jhair Martel</h1>
-<h3 align="center">Estudiantede Ingeniería de Sistemas</h3>
+<h3 align="center">Estudiante de Ingeniería de Sistemas</h3>
 
 - 👨‍💻 Análisis avanzado de datos **para generación de insights estratégicos**
 
@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jhair israel martel paez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhair israel martel paez" height="30" width="40" /></a>
-<a href="https://fb.com/jhair martel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jhair martel" height="30" width="40" /></a>
-<a href="https://instagram.com/jhair_mp25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jhair_mp25" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jhair-israel-martel-paez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jhair-israel-martel-paez/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/jhair.martel.2025/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/jhair.martel.2025/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/jhair_mp25/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jhair_mp25/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
