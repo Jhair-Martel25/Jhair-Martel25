@@ -1,13 +1,31 @@
 <h1 align="center">Hola 👋, soy Jhair Martel</h1>
 <h3 align="center">Estudiante de Ingeniería de Sistemas | Data Analyst | AI Enthusiast</h3>
 
-- 👨‍💻 Análisis avanzado de datos **para generación de insights estratégicos**
+---
 
-- 🙋‍♂️ Estoy participando como voluntariado **en Ecosistema Startup Peruano**
+## 🚀 Sobre mí
+🎓 Estudiante de 7mo ciclo en Ingeniería de Sistemas  
+📊 Enfocado en analítica de datos, inteligencia artificial y BI  
+💡 Experiencia en automatización de procesos con Python y APIs  
+📍 Lima, Perú  
 
-- 🤝 Trabajo colaborativo **en proyectos de innovación tecnológica**
+---
 
-- 📫 Escribeme a **jhair.martel.2004@gmail.com**
+## 🧠 Tecnologías y herramientas
+- **Lenguajes:** Python, SQL  
+- **Data:** Pandas, NumPy, Scikit-learn  
+- **BI:** Power BI, Tableau  
+- **Otros:** Excel avanzado, Power Automate, APIs  
+
+---
+
+## 📫 Contacto
+📧 jhair.martel.2004@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/jhair-israel-martel-paez/
+
+---
+
+⭐ Siempre aprendiendo y construyendo soluciones con datos
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
