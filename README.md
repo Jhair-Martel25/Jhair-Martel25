@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, Soy Jhair Martel</h1>
-<h3 align="center">Estudiante de Ingeniería de Sistemas</h3>
+<h1 align="center">Hola 👋, soy Jhair Martel</h1>
+<h3 align="center">Estudiante de Ingeniería de Sistemas | Data Analyst | AI Enthusiast</h3>
 
 - 👨‍💻 Análisis avanzado de datos **para generación de insights estratégicos**
 
